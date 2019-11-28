@@ -1,0 +1,16 @@
+﻿生成启动时间为 2019/11/24 19:11:40。
+     1>项目“C:\Users\62636\Documents\Visual Studio 2012\Projects\MFCApplication9\MFCApplication9\MFCApplication9.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MFCApplication9.res" MFCApplication9.rc 
+       Link:
+         E:\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\62636\Documents\Visual Studio 2012\Projects\MFCApplication9\Debug\MFCApplication9.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:E:\vs2012\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"C:\Users\62636\Documents\Visual Studio 2012\Projects\MFCApplication9\Debug\MFCApplication9.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\62636\Documents\Visual Studio 2012\Projects\MFCApplication9\Debug\MFCApplication9.lib" /MACHINE:X86 Debug\MFCApplication9.res
+         Debug\ABOUTBOX.obj
+         Debug\MFCApplication9.obj
+         Debug\MFCApplication9Dlg.obj
+         Debug\stdafx.obj
+         MFCApplication9.vcxproj -> C:\Users\62636\Documents\Visual Studio 2012\Projects\MFCApplication9\Debug\MFCApplication9.exe
+     1>已完成生成项目“C:\Users\62636\Documents\Visual Studio 2012\Projects\MFCApplication9\MFCApplication9\MFCApplication9.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.56
